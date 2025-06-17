@@ -1,0 +1,2 @@
+Git is a tool that helps developers manage changes to code over time, allowing them to work on projects together efficiently and track their progress. It's like a history book for your code, allowing you to see how it changed and go back to previous versions if needed. 
+
